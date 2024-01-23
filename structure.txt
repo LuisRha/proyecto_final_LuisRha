@@ -1,0 +1,74 @@
+Por defecto 
+
+socios
+|-- app
+|  |-- app
+|  |   |-- asgi.py
+|  |   |-- settings.py
+|  |   |-- urls.py
+|  |   |-- wsgi.py
+|  |--vue
+|  |  |-- cypress
+|  |  |-- node_modules
+|  |  |-- public
+|  |  |-- src
+|  |  |   |-- assets
+|  |  |   |-- components
+|  |  |   |-- router
+|  |  |   |-- stores
+|  |  |   |-- views
+|  |  |   |-- main.js
+|  |  |   |-- App.vue
+|  |  |--.gitignore
+|  |  |-- index.html
+|  |  |-- jsconfig.js
+|  |  |-- package.js
+|  |  |-- README.md
+|  |  |-- vite.config.js
+|  |  |-- yarn.lock
+|  |  |-- vitest.config.js
+|  |-- manage.py
+|-- env
+|-- .env
+|-- .gitignore
+|-- README.md
+|-- requirements.txt
+
+Personalizada
+
+socios
+|-- app
+|  |-- app
+|  |   |-- modulo
+|  |   |   |-- aplicaciones
+|  |   |-- asgi.py
+|  |   |-- settings.py
+|  |   |-- urls.py
+|  |   |-- wsgi.py
+|  |--vue
+|  |  |-- cypress
+|  |  |-- public
+|  |  |-- src
+|  |  |   |-- assets
+|  |  |   |-- components
+|  |  |   |-- router
+|  |  |   |-- stores
+|  |  |   |-- views
+|  |  |   |-- main.js
+|  |  |   |-- App.vue
+|  |  |--.gitignore
+|  |  |-- index.html
+|  |  |-- README.md
+
+|  |  |-- yarn.lock
+|  |  |-- vitest.config.js
+|  |-- manage.py
+|-- node_modules
+|-- env
+|-- .env
+|-- .gitignore
+|-- README.md
+|-- requirements.txt
+|-- package.js
+|-- vite.config.js
+|-- jsconfig.js

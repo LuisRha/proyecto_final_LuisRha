@@ -1,0 +1,19 @@
+# Entorno virtual
+venv
+.env
+.env.test
+.env.prod
+
+# Python
+__pycache__/
+db.sqlite3
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js
+node_modules
+
+# Vite
+dist
+.cache
